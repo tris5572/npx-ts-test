@@ -1,2 +1,2 @@
-export const a = 42;
+const a = 42;
 console.log("test", a);
