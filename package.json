@@ -4,7 +4,7 @@
   "main": "dist/main.js",
   "types": "dist/main.d.js",
   "bin": {
-    "npx-ts-test": "main.js"
+    "npx-ts-test": "dist/main.js"
   },
   "scripts": {
     "dev": "ts-node src/main.ts",
